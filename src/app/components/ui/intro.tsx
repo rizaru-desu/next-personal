@@ -69,6 +69,6 @@ export const Intro: FC = () => (
           <span>Copy Email</span>
         </button>
       </div>
-      
+    </div>
   </div>
 );
